@@ -23,7 +23,6 @@ Interested? Check out the website with installation instructions:
 
 The absolute basics, just ask STaRDoGG. It also extracts recursively, meaning deep within folders, and archives within archives.
 **Tars, Rars, Zips, 7-Zips, Gzips, Tarred gzips and bzips; encrypted rars and 7zips. And ISO disc images.**
-Need something else? Ask. Does it do too much? Let me know what knobs you need. [Open a request!](https://github.com/Unpackerr/unpackerr/issues/new)
 
 ## Attribution
 
